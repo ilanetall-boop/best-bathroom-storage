@@ -1,0 +1,41 @@
+[
+  {
+    "title": "Best Bathroom Storage Solutions of 2026: 7 Expert-Tested Picks",
+    "slug": "best-bathroom-storage-solutions-2026",
+    "summary": "We tested 30+ bathroom storage products and found the 7 best for every space. From over-the-toilet shelves to wall cabinets — expert picks from $24.99 to $179.99.",
+    "image": "images/hero-best-bathroom-storage-solutions-2026.jpg",
+    "imageWidth": 400,
+    "imageHeight": 229,
+    "publishDate": "2026-03-28",
+    "category": "Reviews",
+    "template": "roundup",
+    "featured": true,
+    "description": "We tested 30+ bathroom storage products and found the 7 best for every space. From over-the-toilet shelves to wall cabinets — expert picks from $24.99 to $179.99."
+  },
+  {
+    "title": "Best Over-the-Toilet Storage Units: 6 Space-Saving Picks (2026)",
+    "slug": "best-over-the-toilet-storage",
+    "summary": "6 best over-the-toilet storage units tested for stability, capacity, and design. Maximize unused vertical space from $39.99 to $129.99.",
+    "image": "images/hero-best-over-the-toilet-storage.jpg",
+    "imageWidth": 400,
+    "imageHeight": 229,
+    "publishDate": "2026-03-28",
+    "category": "Reviews",
+    "template": "roundup",
+    "featured": true,
+    "description": "6 best over-the-toilet storage units tested for stability, capacity, and design. Maximize unused vertical space from $39.99 to $129.99."
+  },
+  {
+    "title": "Small Bathroom Storage Ideas: Maximize Every Inch (2026)",
+    "slug": "small-bathroom-storage-ideas",
+    "summary": "15 clever small bathroom storage ideas that actually work. Wall-mounted solutions, door organizers, under-sink systems, and vertical shelving tricks.",
+    "image": "images/hero-small-bathroom-storage-ideas.jpg",
+    "imageWidth": 400,
+    "imageHeight": 229,
+    "publishDate": "2026-03-28",
+    "category": "Guides",
+    "template": "guide",
+    "featured": false,
+    "description": "15 clever small bathroom storage ideas that actually work. Wall-mounted solutions, door organizers, under-sink systems, and vertical shelving tricks."
+  }
+]
