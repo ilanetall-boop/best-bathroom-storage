@@ -9,7 +9,7 @@ window.SITE_CONFIG = {
   logo: "images/bathroom-storage-logo.svg",
   newsletterUrl: "https://script.google.com/macros/s/AKfycbxhUcinCHfLDqvtL6ko2bxreGTOv4yOkGPrO_hUC7v9AVXvjI0cAG9k2nVXKAkbN8kV/exec",
   affiliateTag: "bestbathroomstorage-20",
-  gaId: "",
+  gaId: "G-ZTQCTQ0P98",
   colors: {
     primary: "#37474F",
     primaryLight: "#607D8B",
