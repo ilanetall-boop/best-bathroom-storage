@@ -4,7 +4,7 @@
  */
 window.SITE_CONFIG = {
   name: "Best Bathroom Storage",
-  domain: "best-bathroom-storage.com",
+  domain: "bestbathroomstorage.com",
   tagline: "Expert reviews for smart bathroom organization",
   logo: "images/bathroom-storage-logo.svg",
   newsletterUrl: "https://script.google.com/macros/s/AKfycbxhUcinCHfLDqvtL6ko2bxreGTOv4yOkGPrO_hUC7v9AVXvjI0cAG9k2nVXKAkbN8kV/exec",
@@ -44,7 +44,7 @@ window.SITE_CONFIG = {
       { label: "Best Bathroom Vanities", href: "https://www.bestbathroomvanities.com" },
       { label: "Best Shower Heads", href: "https://www.best-shower-heads.com" },
       { label: "Best Soap Dispensers", href: "https://www.best-soap-dispensers.com" },
-      { label: "Best Bathroom Mirrors", href: "https://www.best-bathroom-mirrors.com" },
+      { label: "Best Bathroom Mirrors", href: "https://www.bestbathroommirrors.com" },
       { label: "Best Bath Towels", href: "https://www.best-bath-towels.com" },
       { label: "Best Towel Warmers", href: "https://www.best-towel-warmers.com" },
       { label: "Best Bathroom Faucets", href: "https://www.best-bathroom-faucets.com" }
