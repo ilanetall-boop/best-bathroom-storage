@@ -6,7 +6,7 @@ window.SITE_CONFIG = {
   name: "Best Bathroom Storage",
   domain: "bestbathroomstorage.com",
   tagline: "Expert reviews for smart bathroom organization",
-  logo: "images/bathroom-storage-logo.svg",
+  logo: "images/bathroom-storage-logo.svg?v=2",
   newsletterUrl: "https://script.google.com/macros/s/AKfycbxhUcinCHfLDqvtL6ko2bxreGTOv4yOkGPrO_hUC7v9AVXvjI0cAG9k2nVXKAkbN8kV/exec",
   affiliateTag: "bestbathroomstorage-20",
   gaId: "G-ZTQCTQ0P98",
