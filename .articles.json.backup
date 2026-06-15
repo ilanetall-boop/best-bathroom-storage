@@ -1,5 +1,16 @@
 [
   {
+    "slug": "best-bathroom-organizers-for-rentals",
+    "title": "Best Bathroom Organizers for Rentals of 2026: 7 Tested Picks",
+    "publishDate": "2026-06-14",
+    "summary": "The best bathroom organizers for rentals add storage without drilling. We compared 7 adhesive caddies and freestanding cabinets that keep your deposit safe.",
+    "image": "images/hero-best-bathroom-organizers-for-rentals.webp",
+    "category": "Reviews",
+    "template": "roundup",
+    "description": "The best bathroom organizers for rentals add storage without drilling. We compared 7 adhesive caddies and freestanding cabinets that keep your deposit safe.",
+    "date": "2026-06-14"
+  },
+  {
     "slug": "floating-shelf-vs-cabinet",
     "title": "Best Floating Shelf vs Cabinet (2026) | Best Bathroom Storage",
     "publishDate": "2026-06-13",
@@ -118,7 +129,8 @@
     "category": "Reviews",
     "template": "roundup",
     "description": "The best bathroom storage under $50, tested and compared. Our pick is the Delamu 2-Tier organizer at $25.99, plus six more under-sink and counter organizers for tight bathrooms.",
-    "date": "2026-06-03"
+    "date": "2026-06-03",
+    "lastModified": "2026-06-14"
   },
   {
     "slug": "best-bathroom-storage-cabinets",
@@ -129,7 +141,8 @@
     "category": "Reviews",
     "template": "roundup",
     "description": "We compared seven bathroom storage cabinets and organizers on footprint, build, and value. The Iwell 67-inch Tall Bathroom Cabinet is our pick for most people, with runner-up, budget, and organizer picks for every layout.",
-    "date": "2026-06-02"
+    "date": "2026-06-02",
+    "lastModified": "2026-06-14"
   },
   {
     "slug": "best-bathroom-storage-for-small-spaces",
@@ -140,7 +153,8 @@
     "category": "Reviews",
     "template": "roundup",
     "description": "The best bathroom storage for small spaces in 2026. We compare slim floor cabinets and no-drill adhesive shower caddies to find the picks that add the most storage in the least square footage.",
-    "date": "2026-06-02"
+    "date": "2026-06-02",
+    "lastModified": "2026-06-14"
   },
   {
     "slug": "best-over-toilet-storage",
@@ -151,7 +165,8 @@
     "category": "Reviews",
     "template": "roundup",
     "description": "We compared seven over-the-toilet storage options, from tall space-saving cabinets to stackable bins, to find the best ways to add storage above and around your toilet in 2026.",
-    "date": "2026-06-01"
+    "date": "2026-06-01",
+    "lastModified": "2026-06-14"
   },
   {
     "title": "The Best Under-Sink Bathroom Organizers (2026)",
@@ -163,6 +178,7 @@
     "template": "roundup",
     "featured": true,
     "description": "Under-sink bathroom organizers to triple your vanity storage. Pull-out drawers, stackable bins, adjustable height — 7 tested picks under $60.",
-    "date": "2026-05-19"
+    "date": "2026-05-19",
+    "lastModified": "2026-06-14"
   }
 ]
